@@ -1,0 +1,2 @@
+# LostInTheWoods
+The project “Lost in the Woods” is an interactive Story about Trauma, Depression and finding yourself again. In this story the protagonist is battling with his own demon and through this process meeting people that want to help them but take advantage of a vulnerable person as well. Lost in the Woods plays in a magical and dream-like forest, in which you can meet various talking animals and magical beings. 
